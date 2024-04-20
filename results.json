@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 25.97215020410856,
+    "en_fr": 55.11532042456348,
+    "en_tl": 64.56956523261924,
+    "en_nl": 58.55354950142315
+  },
+  "test_match": {
+    "en_en_3": 25.97215020410856,
+    "en_tl_3": 64.56956523261924,
+    "en_nl_3": 58.55354950142315
+  },
+  "test_generate": {
+    "english_1_gram": "Ip of \u2026maf shatrcytiq",
+    "english_2_gram": "I amad fonwen stat.cYEvo",
+    "english_3_gram": "I amas fory fork htthers",
+    "english_4_gram": "I Love ressoments. 50 year",
+    "spanish_2_gram": "Soy psodomen quera yard",
+    "spanish_3_gram": "Soy o quevan super y vo",
+    "french_2_gram": "Je suis pss \u00e7\u00e0 qustr\u00e9cpht\u00e9s",
+    "french_3_gram": "Je suis onnest quai tremien"
+  }
+}
