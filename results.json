@@ -9,24 +9,24 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_en": 25.97215020410856,
-    "en_fr": 55.11532042456348,
-    "en_tl": 64.56956523261924,
-    "en_nl": 58.55354950142315
+    "en_en": 25.964884809919315,
+    "en_fr": 55.09889257989339,
+    "en_tl": 64.54936737650523,
+    "en_nl": 58.535904627939736
   },
   "test_match": {
-    "en_en_3": 25.97215020410856,
-    "en_tl_3": 64.56956523261924,
-    "en_nl_3": 58.55354950142315
+    "en_en_3": 25.964884809919315,
+    "en_tl_3": 64.54936737650523,
+    "en_nl_3": 58.535904627939736
   },
   "test_generate": {
-    "english_1_gram": "Ip of \u2026maf shatrcytiq",
-    "english_2_gram": "I amad fonwen stat.cYEvo",
-    "english_3_gram": "I amas fory fork htthers",
-    "english_4_gram": "I Love ressoments. 50 year",
-    "spanish_2_gram": "Soy psodomen quera yard",
-    "spanish_3_gram": "Soy o quevan super y vo",
-    "french_2_gram": "Je suis pss \u00e7\u00e0 qustr\u00e9cpht\u00e9s",
-    "french_3_gram": "Je suis onnest quai tremien"
+    "english_1_gram": "ItApoA'd otun s  vciu",
+    "english_2_gram": "I amp:/58ux o/jain  vinC",
+    "english_3_gram": "I am. XeKovellublichande",
+    "english_4_gram": "I Love you pare @startand:",
+    "spanish_2_gram": "Soy pNSelx6ujon mprdino",
+    "spanish_3_gram": "Soy #No Sabotoder yas u",
+    "french_2_gram": "Je suistpeppon o/jn mprd0mo",
+    "french_3_gram": "Je suis \ud83d\udc4f\ud83d\udc4f@con C'en Or, mal"
   }
 }
